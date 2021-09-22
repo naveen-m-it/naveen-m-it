@@ -2,4 +2,4 @@
 - 👀 I’m interested Software dewelopment
 - 🌱 I’m currently python
 - 💞️ I’m looking job
-- 📫 contuct me via mail naveenmnka15@gmail.com
+- 📫 contact me via mail naveenmnka15@gmail.com
