@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @naveen-m-it
 - 👀 I’m interested Software dewelopment
-- 🌱 I’m currently python
-- 💞️ I’m looking job
+- 🌱 I love python
 - 📫 contact me via mail naveenmnka15@gmail.com
